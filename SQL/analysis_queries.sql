@@ -1,5 +1,4 @@
 -- Global Suicide Rates Analytics
--- SQL dialect: PostgreSQL-compatible
 -- Assumed table name: global_suicide_rates
 
 -- 1. Basic profile
