@@ -2,8 +2,7 @@
 Global Suicide Rates — End-to-End Exploratory & Business/Policy Analytics
 Dataset: global_suicide_rates_real_who_worldbank.csv
 
-Run:
-    python global_suicide_rates_analysis.py
+
 
 Outputs:
     visualizations/*.png
