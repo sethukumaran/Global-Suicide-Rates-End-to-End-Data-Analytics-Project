@@ -13,7 +13,6 @@ The objective is to demonstrate an end-to-end **senior data analyst workflow**:
 - SQL-based business/policy questions
 - Python visualization
 - Action-oriented interpretation
-- GitHub-ready project structure
 
 > **Important analytical note:** Suicide is a sensitive public-health outcome. This project is intended for descriptive analytics and resource-planning discussion. The analysis does not establish causality, and country comparisons should account for differences in reporting, estimation methods, population structure, and local context.
 
@@ -48,7 +47,6 @@ The dataset contains 12,210 all-age observations and 6,105 age-specific observat
 7. Is GDP per capita associated with the observed suicide rate?
 8. Where are data-quality limitations that could affect interpretation?
 
----
 
 ## 4. Key Findings
 
@@ -139,7 +137,6 @@ There are **315 rows with missing GDP and GDP-per-capita values**, concentrated 
 
 The suicide-rate and population fields are complete in the supplied file.
 
----
 
 ## 5. Recommended Business / Policy Insights
 
@@ -188,7 +185,7 @@ Before interpreting a large country-to-country difference, analysts should valid
 - changes in data collection
 - age standardization
 
----
+
 
 ## 6. SQL Analysis
 
@@ -208,7 +205,7 @@ Before interpreting a large country-to-country difference, analysts should valid
 - duplicate detection
 - high-rate observations
 
----
+
 
 ## 7. Python Analysis
 
@@ -246,9 +243,8 @@ The script generates 8 PNG files:
 
 ## 8. Suggested Portfolio Statement
 
-> **Global Suicide Rates — SQL & Python Analytics:** Conducted an end-to-end analysis of 18K+ country-year demographic observations across 185 countries, identifying long-term trend changes, demographic disparities, country-level trajectories, and socioeconomic relationships. Built PostgreSQL-compatible analytical queries and Python EDA/visualizations, with explicit data-quality checks and non-causal interpretation of socioeconomic correlations.
+ **Global Suicide Rates — SQL & Python Analytics:** Conducted an end-to-end analysis of 18K+ country-year demographic observations across 185 countries, identifying long-term trend changes, demographic disparities, country-level trajectories, and socioeconomic relationships. Built PostgreSQL-compatible analytical queries and Python EDA/visualizations, with explicit data-quality checks and non-causal interpretation of socioeconomic correlations.
 
----
 
 ## 9. Conclusion
 
